@@ -18,6 +18,4 @@ dependencies:
     - pandas
     - matplotlib
     - pandas_ui
-    - jupyter nbextension enable --py qgrid --sys-prefix
-    - jupyter nbextension enable --py widgetsnbextension --sys-prefix
     
