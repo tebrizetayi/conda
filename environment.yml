@@ -17,3 +17,5 @@ dependencies:
     - sphinx-gallery
     - pandas
     - matplotlib
+    - pandas_ui
+    
